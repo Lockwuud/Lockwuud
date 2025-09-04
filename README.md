@@ -5,3 +5,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=600&lines=Welcome+to+my+Github+profile+page" alt="Typing SVG" /></a>
 </p>
+
+
+![Metrics](/github-metrics.svg)
+
