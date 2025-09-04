@@ -1,0 +1,6 @@
+user: Lockwuud
+template: classic
+base: header, activity, community, repositories, metadata
+plugin_languages: yes
+plugin_stars: yes
+plugin_contributors: yes
